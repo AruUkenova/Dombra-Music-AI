@@ -1,0 +1,8 @@
+tensorflow
+numpy
+librosa
+pretty_midi
+soundfile
+scikit-learn
+tqdm
+matplotlib
